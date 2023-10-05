@@ -11,6 +11,11 @@ These dashboards show the brief view in all these sectors and the use of slicers
 
 The Dasboard is totaly made up with an dynamic view and can filter on the basis of content.
 
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **Superstore_Dashboard**  | This file consista the Dashboard and other reports.  |
+| **Superstore_Data**  | This file is the superstore Raw data file .  |
+
 Quick Start
 
     1. Imported the dataset in power query editor for transformation and did cleaning in it 
